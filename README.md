@@ -62,6 +62,11 @@ Defined:
 
 Created:
 - AS-IS Process
+  ## AS-IS Process
+
+![AS-IS](BPMN%20Diagrams/AS%20-%20IS%20Process.drawio.png)
+
+---
 - TO-BE Process
 
 ### Gap Analysis
@@ -88,12 +93,6 @@ KPIs Included:
 - Open Tickets
 - Resolved Tickets
 - SLA Compliance Rate
-
----
-
-## Dashboard Preview
-
-![Dashboard](Dashboard/Dashboard.png)
 
 ---
 
