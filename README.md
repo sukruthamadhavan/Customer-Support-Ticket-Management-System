@@ -63,13 +63,13 @@ Defined:
 Created:
 - AS-IS Process
 - TO-BE Process
-  ## AS-IS Process
+## AS-IS Process
 
-![AS-IS](BPMN%20Diagrams/AS%20-%20IS%20Process.drawio.png)
+![AS-IS](BPMN Diagrams/as-is-process.png)
 
 ## TO-BE Process
 
-![TO-BE](BPMN%20Diagrams/TO%20-%20BE%20PROCESS.jpg)
+![TO-BE](BPMN Diagrams/to-be-process.png)
 
 ### Gap Analysis
 
