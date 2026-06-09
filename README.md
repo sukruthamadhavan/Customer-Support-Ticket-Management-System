@@ -5,6 +5,9 @@
 This project demonstrates an end-to-end Business Analysis engagement focused on improving customer support ticket management processes.
 
 The objective was to identify process inefficiencies, document business requirements, design future-state workflows, and visualize operational performance through a Power BI dashboard.
+## Dashboard Preview
+
+![Dashboard](Dashboard/Dashboard.png)
 
 ---
 
