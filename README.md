@@ -1,3 +1,7 @@
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Project-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Jira](https://img.shields.io/badge/Jira-Agile-blue)
+![BPMN](https://img.shields.io/badge/BPMN-Process%20Modeling-green)
 # Customer Support Ticket Management System
 
 ## Project Overview
