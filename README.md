@@ -65,11 +65,11 @@ Created:
 - TO-BE Process
 ## AS-IS Process
 
-![AS-IS](BPMN Diagrams/as-is-process.png)
+![AS-IS](BPMN%20Diagrams/as-is-process.png)
 
 ## TO-BE Process
 
-![TO-BE](BPMN Diagrams/to-be-process.png)
+![TO-BE](BPMN%20Diagrams/to-be-process.png)
 
 ### Gap Analysis
 
